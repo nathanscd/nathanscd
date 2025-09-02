@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathanael Secundo Cardoso</h1>
 <h3 align="center">Java, Python and C# developer || Data Analyst</h3>
 
-- 🔭 I’m currently working on **ELetra Energy Solutions**
 
 - 🌱 I’m currently learning **React, Angular, Bootstrap**
 
