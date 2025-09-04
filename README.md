@@ -79,6 +79,16 @@
   <img src="https://streak-stats.demolab.com?user=nathanscd&theme=dark" alt="GitHub Streak" />
 </p>
 
+<h3 align="center">🔥 Contribution Graph</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions.svg">
+    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions.svg">
+  </picture>
+</p>
+
+
 ---
 
 <h3 align="center">✨ About Me</h3>
