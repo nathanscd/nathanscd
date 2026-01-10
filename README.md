@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nathanael Secundo Cardoso</h1>
+<h1 align="center">Hi, I'm Nathanael Secundo Cardoso!</h1>
 <h3 align="center">💻 Java, Python and C# Developer | 📊 Data Analyst</h3>
 
 ---
