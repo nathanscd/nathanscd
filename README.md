@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Nathanael Secundo Cardoso!</h1>
-<h3 align="center">💻 Java, Python and C# Developer | 📊 Data Analyst</h3>
+<h3 align="center">💻 Junior Fullstack Developer | Java, React.js, SQL | REST APIs, Web Applications, Databases</h3>
 
 ---
 
-- 🌱 Currently learning **React, Angular, Bootstrap**
-- 📫 Reach me at **nathansscd@gmail.com**
-- 🚀 Passionate about **software development, data analysis, and AI**
-- 🎯 Always looking for **new challenges and projects**
+- 🛠️ **Current Focus:** Microservices with **Java/Spring Boot** and **React.js**.
+- 📊 **Data Expertise:** Process automation with Python , Web Scraping, and SQL (PostgreSQL/MySQL).
+- 🌍 **Languages:** English (Full Professional), Spanish (Professional), French, and Chinese.
+- 🎲 **Personal:** RPG Game Master (Ordem Paranormal) and Astrophysics enthusiast.
+
 
 ---
 
@@ -20,49 +21,34 @@
   </a>
 </p>
 
+
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-C0392B?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-8E44AD?logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/-Python-C0392B?logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-8E44AD?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-C0392B?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-8E44AD?logo=tailwind-css&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C0392B?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-8E44AD?logo=mysql&logoColor=white) |
+
+</div>
+
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+### 🌟 Featured Projects
 
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-</p>
+<div align="center">
 
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[RPGMaster](https://github.com/nathanscd/RPGMaster)** | Management system for RPG campaigns and sheets. | `TypeScript` |
+| **[UltimateComparison](https://github.com/nathanscd/UltimateComparison)** | Master file and data comparison tool. | `Python` |
+| **[GoalTracker](https://github.com/nathanscd/GoalTracker)** | Gamified habit and goal tracking application. | `TypeScript` |
+| **[GravitySimulator](https://github.com/nathanscd/GravitySimulator)** | Physics-based orbital mechanics simulator. | `C` |
 
-### Databases & Cloud
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
-
-### Others
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
@@ -79,9 +65,10 @@
   <img src="https://streak-stats.demolab.com?user=nathanscd&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
+
 <h3 align="center">🔥 Contribution Graph</h3>
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions.svg" /> <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/nathanscd/nathanscd/output/contributions.svg" /> </picture>
-
 
 ---
 
@@ -91,3 +78,9 @@
   🎯 My goal is to build efficient solutions that impact people's lives.  
   🌍 Open to collaboration on innovative projects.  
 </p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&text_color=ffffff&bg_color=00000000" />
+</div>
